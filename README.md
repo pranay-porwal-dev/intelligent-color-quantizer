@@ -27,7 +27,10 @@ $$b = \lceil \log_2(K) \rceil \text{ bits per pixel}$$
 - **5D Segmentation Mode (RGB + XY):** Feature augmentation that appends normalized spatial coordinates, forcing regional object isolation.
 - **The Elbow Method:** Automates heuristic loop tracking from $K=1$ to $10$ to systematically find the optimal palette boundary.
 - **transparent Analytics:** Displays real-time calculations tracking Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index (SSIM).
+## 📊 Application Dashboard
 
+![Dashboard Overview](assets/dashboard1.png)
+*Figure 1: Interactive Streamlit UI showing real-time color quantization metrics.*
 ## 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
