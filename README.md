@@ -1,4 +1,8 @@
-# Intelligent Color Quantization & Semantic Segmentation Platform 🎨
+# Intelligent Color Quantizer & Image Segmenter 🎨
+
+### 🚀 Live Application Link
+👉 **[Click here to try the live app on Streamlit Cloud!](https://intelligent-color-quantizer-5oamwt8xhszt8ksr8wwcfp.streamlit.app/)**
+
 
 An enterprise-grade, modular computer vision application that bridges Digital Image Processing (DIP) and Unsupervised Machine Learning. The platform implements optimized Mini-Batch K-Means clustering to transition high-resolution images from a 24-bit Direct Color model to an Indexed Color model (Look-Up Tables), dropping storage footprints by up to 83% while preserving textural visual integrity.
 
